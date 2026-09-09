@@ -1,0 +1,47 @@
+/* Estamos resetendo los estilos por defecto*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #F2ACD3;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header{
+    background-color: white;
+    text-align: center;
+}
+.primera {
+    text-align: center;
+    height: 400px;
+    background-color: #D91E75;
+    color: white;
+    padding-top: 10px;
+
+}
+.primera h2 {
+
+  font-family: "Zeyada", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.segunda {
+    background-color: #A62E66;
+    text-align: center;
+    height: 250px;
+    padding-top: 70px;
+
+}
+.tercera {
+    background-color: black;
+    text-align: center;
+    height: 200px;
+    color: #A62E66;
+    padding: 20px;
+}
